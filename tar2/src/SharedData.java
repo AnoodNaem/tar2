@@ -1,16 +1,33 @@
+import java.util.ArrayList;
+
+/**
+ * @author Anood
+ * constructor
+ *
+ */
+
 public class SharedData 
 {
-	private int [] array;
+	private  ArrayList<Integer> array;
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
 	
-	public SharedData(int[] array, int b) {
-		
-		this.array = array;
+	/**
+	 * @param array2 array of integer
+	 * @param b intger num
+	 */
+	public SharedData(ArrayList<Integer> array2, int b) {
+		 array = new ArrayList<Integer>();
+		 array=array2;
+		//this.array = array;
 		this.b = b;
 	}
+	
 
+	/**
+	 * @return the the first third that return two numbers sum =5
+	 */
 	public boolean[] getWinArray() 
 	{
 		return winArray;
@@ -21,7 +38,7 @@ public class SharedData
 		this.winArray = winArray;
 	}
 
-	public int[] getArray() 
+	public ArrayList<Integer> getArray() 
 	{
 		return array;
 	}
