@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * constructor
  *
  */
-
+// anood + marwa 
 public class SharedData 
 {
 	private  ArrayList<Integer> array;

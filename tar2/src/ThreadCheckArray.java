@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//anood +  marwa 
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;
