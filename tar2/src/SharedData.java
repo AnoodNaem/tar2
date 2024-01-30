@@ -9,6 +9,8 @@ import java.util.ArrayList;
  ///jujyutfutfd
 //mmmmmmmm
 // anood + marwaa
+
+//asa
 public class SharedData 
 {
 	private  ArrayList<Integer> array;
