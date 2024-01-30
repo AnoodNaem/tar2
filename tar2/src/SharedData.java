@@ -8,6 +8,7 @@ import java.util.ArrayList;
  *///anooddd al lop
  ///jujyutfutfd
 // anood + marwaa
+//nnnnnnnnnn
 public class SharedData 
 {
 	private  ArrayList<Integer> array;
