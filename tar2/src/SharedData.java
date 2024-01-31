@@ -6,9 +6,7 @@ import java.util.ArrayList;
  //gggggggggggggggggggggggg
  * constructor
  *///anooddd al lop
- ///jujyutfutfd
-// anood + marwaa
-//nnnnnnnnnn
+ 
 public class SharedData 
 {
 	private  ArrayList<Integer> array;
